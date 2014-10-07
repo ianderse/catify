@@ -1,4 +1,3 @@
-% cat hola.gemspec
 Gem::Specification.new do |s|
   s.name        = 'catify'
   s.version     = '1.0'

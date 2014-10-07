@@ -49,5 +49,3 @@ class Catify
     end.join(' ').capitalize
   end
 end
-
-puts Catify.it("Jeff, I know this is possibly the most appalling thing I have ever done, but I hope you can please pardon my unfortunate attitude because this is awesome")
