@@ -1,4 +1,4 @@
-Inspiration: http://blog.spikepadley.com/post/72332709432/cat-puns and the Turing.io community channel.
+Inspiration: http://blog.spikepadley.com/post/72332709432/cat-puns , the Turing.io community channel, and mainly to annoy Jeff Casimir.
 
 Installation:
 gem install Catify
